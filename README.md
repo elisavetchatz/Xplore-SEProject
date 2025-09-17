@@ -85,16 +85,8 @@ The full OpenAPI spec is defined in [`initial.json`](./initial.json), describing
 - **Swagger UI / Editor**
 - **JSON/YAML Schema Design**
 - **UML Diagrams** (Activity, Class, Use Case)
-
----
-
-## ✍️ Authors
-
-- Team: Xplore API Team
-
----
-
 ## 📄 License
 
 Licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.html).
+
 
