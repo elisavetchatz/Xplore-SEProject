@@ -1,4 +1,4 @@
-﻿# 🧩 Xplore Web Application - Software Engineering Project
+﻿# Xplore Web Application - Software Engineering Project
 <p align="center">
   <img src=".\Mockups\Xplore_logo.png" alt="Xplore Logo" width="200"/>
 </p>
@@ -13,10 +13,10 @@ The project follows a **Design-First API** approach and adheres to the **OpenAPI
 
 ## 🧠 Functional Features
 
-- 🧑‍🏫 **Gamemaster**: Can browse stories and panels, invite solvers, and add riddles.
-- 🧑‍🎓 **Solver**: Accepts invitations and solves riddles.
-- 🧩 **Story Flow**: Users proceed through stories using narrative panels.
-- ❓ **Custom Riddles**: Gamemasters can create or fetch riddles from the database.
+-  **Gamemaster**: Can browse stories and panels, invite solvers, and add riddles.
+- **Solver**: Accepts invitations and solves riddles.
+- **Story Flow**: Users proceed through stories using narrative panels.
+- **Custom Riddles**: Gamemasters can create or fetch riddles from the database.
 
 ---
 
@@ -24,19 +24,19 @@ The project follows a **Design-First API** approach and adheres to the **OpenAPI
 
 The development of the project followed a structured process organized in **three main deliverables**:
 
-### ✅ Deliverable 1
+### Deliverable 1
 
 - Collection of **User Requirements**
 - Definition of **User Stories**
 - Design of **Use Case Diagrams**
 - Creation of **Activity Diagrams** for key functionalities
 
-### ✅ Deliverable 2
+### Deliverable 2
 
 - Design of the **Class Diagrams**
 - Implementation of **Sequence Diagrams** to model system interactions
 
-### ✅ Deliverable 3
+### Deliverable 3
 
 - Definition and implementation of the **RESTful API**
 - Documentation of the API using **OpenAPI (Swagger)**
@@ -59,7 +59,7 @@ The development of the project followed a structured process organized in **thre
 
 ---
 
-## 📑 API Specification
+## API Specification
 
 The full OpenAPI spec is defined in [`initial.json`](./initial.json), describing endpoints such as:
 
@@ -71,14 +71,6 @@ The full OpenAPI spec is defined in [`initial.json`](./initial.json), describing
 
 ---
 
-## 🔗 Useful Links
-
-- 📁 [GitHub Repo](https://github.com/dimileou/Software-Engineering-Project)
-- 📜 [Swagger Documentation](https://github.com/dimileou/Software-Engineering-Project/tree/main/Swagger)
-- 📘 [Learn Swagger](https://swagger.io)
-
----
-
 ## 🛠️ Technologies Used
 
 - **OpenAPI 3.0.4**
@@ -86,7 +78,5 @@ The full OpenAPI spec is defined in [`initial.json`](./initial.json), describing
 - **JSON/YAML Schema Design**
 - **UML Diagrams** (Activity, Class, Use Case)
 ## 📄 License
-
-Licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.html).
 
 
